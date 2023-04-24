@@ -1,0 +1,18 @@
+[
+  {
+    "name": "La Gulla da Mãezona",
+    "address": "Av. Abdo Cabús, Candeias",
+    "cuisine": "Lanches e bebidas",
+    "website": "https://www.instagram.com/lagulladamaezona/",
+    "description": "Comida muito bem servida, gostosa e barata.",
+    "id": "3509f3d8-29e1-4686-94c7-c24370be5c26"
+  },
+  {
+    "name": "Domino's Pizza",
+    "address": "Av. Bernardo Vieira de Melo, 3700",
+    "cuisine": "Pizza",
+    "website": "https://www.dominos.com.br/",
+    "description": "Ótima pizza com várias promoções.",
+    "id": "fd03a817-5816-4175-baf5-a90140817632"
+  }
+]
